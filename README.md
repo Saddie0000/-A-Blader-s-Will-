@@ -1,6 +1,6 @@
 <html>
 <head>
-<!--<style>
+<style>
 a:link {
   text-decoration: none;
   color:white;
@@ -59,7 +59,7 @@ font-family:verdana
   color:white;
   box-shadow: 0 5px #665;
   transform: translateY(4px);
-  }-->
+  }
 </style>
 </head>
 <body style="background-color:#000000">
@@ -67,6 +67,6 @@ font-family:verdana
 <p>This is a story of a young boy who aspired to be the strongest <strong>"blader"</strong> in the world.</p>
 <p>I asumme that you are also intrested in his <strong>vestige?</strong></p>
 <button class="button" title="Interlude."><a href="Chapter 1 - Interlude.html">Chapter 1 - Interlude</a></button>
-<!--<button class="button button2">Chapter 2 - Degrading Memory</button>-->
+<button class="button button2">Chapter 2 - Degrading Memory</button>
 </body>
 </html>
