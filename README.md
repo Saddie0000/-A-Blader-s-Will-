@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -7,12 +5,10 @@ a:link {
   text-decoration: none;
   color:white;
 }
-
 a:visited, a:hover {
   text-decoration: none;
   color:black;
 }
-
 a:active {
   text-decoration: none;
   color:red;
