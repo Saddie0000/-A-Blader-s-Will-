@@ -1,4 +1,4 @@
-# -A Blader's Will-
+
 <!DOCTYPE html>
 <html>
 <head>
