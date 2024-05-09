@@ -1,6 +1,6 @@
 <html>
 <head>
-<style>
+<!--<style>
 a:link {
   text-decoration: none;
   color:white;
@@ -36,8 +36,7 @@ font-family:verdana
   font-family:verdana
   font-size: 16px;
   transition-duration:0.5s;
-
-}
+}-->
 <!--.button2 {
   background-color:red;
   border:2px solid white;
