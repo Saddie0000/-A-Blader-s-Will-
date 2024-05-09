@@ -64,7 +64,6 @@ font-family:verdana
 </style>
 </head>
 <body style="background-color:#000000">
-<h1 title="A Blader's Will.">-A Blader's Will-</h1>
 <p>This is a story of a young boy who aspired to be the strongest <strong>"blader"</strong> in the world.</p>
 <p>I asumme that you are also intrested in his <strong>vestige?</strong></p>
 <button class="button" title="Interlude."><a href="Chapter 1 - Interlude.html">Chapter 1 - Interlude</a></button>
