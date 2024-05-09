@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>-A Blader's Will-</title>
 <style>
 a:link {
   text-decoration: none;
@@ -43,7 +42,7 @@ font-family:verdana
   transition-duration:0.5s;
 
 }
-.button2 {
+<!--.button2 {
   background-color:red;
   border:2px solid white;
   color: white;
@@ -53,7 +52,7 @@ font-family:verdana
   display: inline-block;
   font-size: 16px;
   font-family:verdana
-  transition-duration:0.5s;
+  transition-duration:0.5s;-->
 
 }
 .button:hover {
