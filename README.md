@@ -48,7 +48,7 @@ font-family:verdana
   display: inline-block;
   font-size: 16px;
   font-family:verdana
-  transition-duration:0.5s;-->
+  transition-duration:0.5s;
 
 }
 .button:hover {
@@ -60,7 +60,7 @@ font-family:verdana
   color:white;
   box-shadow: 0 5px #665;
   transform: translateY(4px);
-}
+  }-->
 </style>
 </head>
 <body style="background-color:#000000">
