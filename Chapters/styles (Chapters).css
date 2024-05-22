@@ -1,5 +1,5 @@
 body {
-background-color:rgb(0,0,0)
+background-color:black;
 }
 h1 {
 color:red;
@@ -36,32 +36,33 @@ text-align:left;
 font-family:verdana
 }
 a:link {
-text-decoration: none;
+text-decoration:none;
 color:white;
 }
 a:visited, a:hover {
 text-decoration:none;
-color:black;
+color:red;
 }
 a:active {
 text-decoration:none;
-color:red;
+color:white;
 }
 .button {
-background-color:rgb(100,100,100);
+background-color:black;
 border:2px solid white;
-color:white;
-padding:15px 32px;
+color:red;
+padding:15px 30px;
 text-align:center;
 text-decoration:none;
 display:inline-block;
-font-family:verdana
-font-size:16px;
+font-family:verdana;
+font-size:15px;
 transition-duration:0.5s;
+font-weight:bold;
 }
 .button:hover {
 background-color:white;
-color:black;
+color:red;
 }
 .button:active {
 background-color:black;
