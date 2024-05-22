@@ -37,7 +37,7 @@ font-family:verdana
 }
 a:link {
 text-decoration:none;
-color:white;
+color:red;
 }
 a:visited, a:hover {
 text-decoration:none;
@@ -45,7 +45,7 @@ color:white;
 }
 a:active {
 text-decoration:none;
-color:white;
+color:red;
 }
 .button {
 background-color:black;
