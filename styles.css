@@ -34,25 +34,25 @@ text-decoration: none;
 color:red;
 }
 .button {
-background-color:rgb(100,100,100);
+background-color:black;
 border:2px solid white;
-color: white;
-padding: 15px 32px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-family:verdana
-font-size: 16px;
+color:red;
+padding:15px 30px;
+text-align:center;
+text-decoration:none;
+display:inline-block;
+font-family:verdana;
+font-size:15px;
 transition-duration:0.5s;
-float:left;
+font-weight:bold;
 }
 .button:hover {
 background-color:white;
-color:black;
+color:red;
 }
 .button:active {
 background-color:black;
 color:white;
-box-shadow: 0 5px #665;
-transform: translateY(4px);
+box-shadow:0 5px #665;
+transform:translateY(4px);
 }
