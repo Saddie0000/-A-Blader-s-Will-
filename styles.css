@@ -22,15 +22,15 @@ text-align:center;
 font-family:verdana;
 }
 a:link {
-text-decoration: none;
+text-decoration:none;
 color:white;
 }
 a:visited, a:hover {
-text-decoration: none;
+text-decoration:none;
 color:black;
 }
 a:active {
-text-decoration: none;
+text-decoration:none;
 color:red;
 }
 .button {
