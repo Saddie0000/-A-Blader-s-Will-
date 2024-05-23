@@ -70,29 +70,3 @@ color:white;
 box-shadow:0 5px #665;
 transform:translateY(4px);
 }
-.center-button {
-position:absolute;
-top: 16%;
-left: 41%;
-background-color:black;
-border:2px solid white;
-color:red;
-padding:10px 20px;
-text-align:center;
-text-decoration:none;
-display:inline-block;
-font-family:verdana;
-font-size:15px;
-transition-duration:0.5s;
-font-weight:bold;
-}
-.center-button:hover {
-background-color:white;
-color:red;
-}
-.center-button:active {
-background-color:black;
-color:white;
-box-shadow:0 5px #665;
-transform:translateY(4px);
-}
