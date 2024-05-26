@@ -3,10 +3,12 @@ background-color:black;
 }
 h1 {
 color:red;
-border:2px solid white;
-margin:50px;
+background-color:black;
+border:5px solid white;
 font-family:verdana;
 text-align:center;
+position:sticky;
+top:0;
 }
 h2 {
 color:white;
@@ -17,7 +19,7 @@ text-align:left;
 }
 h6 {
 color:red;
-margin:0px;
+margin:-12px;
 font-size:20px;
 font-family:verdana;
 text-align:center;
