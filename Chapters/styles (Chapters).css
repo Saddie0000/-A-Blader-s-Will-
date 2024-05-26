@@ -3,10 +3,12 @@ background-color:black;
 }
 h1 {
 color:red;
-border:2px solid white;
-margin:50px;
+background-color:black;
+border:5px solid white;
 font-family:verdana;
 text-align:center;
+position:sticky;
+top:0;
 }
 h2 {
 color:white;
@@ -33,7 +35,7 @@ text-decoration:underline;
 p {
 color:white;
 text-align:left;
-font-family:verdana
+font-family:verdana;
 }
 a:link {
 text-decoration:none;
