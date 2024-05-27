@@ -72,3 +72,27 @@ color:white;
 box-shadow:0 5px #665;
 transform:translateY(4px);
 }
+.button2 {
+background-color:black;
+border:2px solid white;
+color:red;
+text-align:center;
+text-decoration:none;
+display:inline-block;
+font-family:verdana;
+font-size:15px;
+transition-duration:0.5s;
+font-weight:bold;
+position:relative;
+left:41%;
+}
+.button2:hover {
+background-color:white;
+color:red;
+}
+.button2:active {
+background-color:black;
+color:white;
+box-shadow:0 5px #665;
+transform:translateY(4px);
+}
